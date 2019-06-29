@@ -1,6 +1,8 @@
 # ImageConsumer
 Digesting images is my job
 
+#### Requires node.js 8.15.0
+
 This bot can filter images using ai. Try it yourself by doing the following steps:
 - git clone this
 - go to that directory and run 'npm i'
